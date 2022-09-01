@@ -13,4 +13,14 @@ Top-k query
 
 Community detection:
     -social networks
-    
+
+- difference between clustering and community detection
+- communities in biological networks
+
+-dual graph
+
+topic for day 2:
+
+// node recommendation task 
+// influence maximation
+
