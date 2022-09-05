@@ -2,6 +2,11 @@
 
 1.1 Square of adjacency matrix
 Each of the entries in the squared matrix counts the number of walks of length two between two vertices. For example if row A and colum D value is 3 then there are three walk between A and d
+
+e1->e5
+e2->e5
+e3->e5
+
 ![adjacency matrix](./screenshots/L1_adjacency_matrix.png)
 
 ### 2. adjacency List
